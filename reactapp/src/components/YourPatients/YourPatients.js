@@ -495,7 +495,7 @@ Search         </button>
             <div className="col col-2" data-label="View Items" style={{
               marginTop:"130px" 
             }}>
-            <Link to={`/PastOrderItems/${order.PatientID}`}>
+            <Link to={`/patient/${order.PatientID}`}>
   <FontAwesomeIcon icon={faEye} style={{width:'100%', marginLeft:"-70px"}} size="2x" aria-hidden="true" />
 </Link>
 
