@@ -8,7 +8,7 @@ import { Button } from '@mui/material';
 import photo1 from './bonnne.png'
 import photo3 from './bonnne.png'
 import photo2 from './bonnne.png'
-// import "animate.css";
+import "animate.css";
 import imag2 from './bonnne.png'
 import image1 from './bonnne.png'
 
